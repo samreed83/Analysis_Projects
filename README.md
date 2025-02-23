@@ -1,1 +1,1 @@
-This is to help me explore ETL processes and input code to practice
+This is where I store my analysis projects that I have worked on
