@@ -1,3 +1,0 @@
-py -m pip install pipenv
-py -m pip install jupyterlab
-py -m pipenv install --dev
